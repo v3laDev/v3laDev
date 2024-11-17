@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💡 About Me  
 
-<!--
-**v3laDev/v3laDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 👋 My name is **Vela**, also known as **Bliss**.  
+I'm a **17-year-old** developer and creator from **Argentina** 🇦🇷.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 What I Do  
+🔧 I love building tools, coding in python.  
+💻 Passionate about coding, cybersecurity, and bot development.  
+🎮 Gamer at heart, always finding ways to enhance my experience.  
+
+---
+
+## 📫 How to Reach Me  
+- **GitHub**: [@V3laDev](https://github.com/V3laDev)  
+- **Discord**: [@velaxitt]("https://discord.com/users")  
+
+Feel free to connect with me—I’m always up for a new challenge or collaboration! 🚀  
+
+- i only have this profile.
