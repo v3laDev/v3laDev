@@ -20,5 +20,10 @@ I'm a **17-year-old** developer and creator from **Argentina** 🇦🇷.
 
 - **Skills**:
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=V3laDev&show_icons=true&theme=radical&hide=stars" alt="V3laDev Github Stats">
+  <a href="https://github.com/V3laDev">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V3laDev&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/V3laDev">
+  <img src="https://github-readme-stats.vercel.app/api?username=V3laDev&show_icons=true&theme=radical&hide=stars">
+  </a>
 </p>
