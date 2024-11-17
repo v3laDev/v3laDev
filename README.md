@@ -28,3 +28,12 @@ I'm a **17-year-old** developer and creator from **Argentina** 🇦🇷.
   <img src="https://github-readme-stats.vercel.app/api?username=V3laDev&show_icons=true&theme=radical&hide=stars">
   </a>
 </p>
+
+<p align="center>
+
+- **Spotify**:
+  <br><br>
+  <a href="https://github.com/V3laDev">
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=6yiowe4up5b9o4bculph7aaav&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+  </a>
+</p>
