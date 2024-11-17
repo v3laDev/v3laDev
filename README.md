@@ -5,6 +5,11 @@ I'm a **17-year-old** developer and creator from **Argentina** 🇦🇷.
 
 ---
 
+<p align="center">  
+<img src="https://komarev.com/ghpvc/?username=v3laDev&color=grey">
+</p>
+
+---
 <p align="center">
 
 - **Languages**:
