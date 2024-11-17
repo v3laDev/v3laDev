@@ -5,17 +5,20 @@ I'm a **17-year-old** developer and creator from **Argentina** 🇦🇷.
 
 ---
 
-## 🌟 What I Do  
-🔧 I love building tools, coding in python.  
-💻 Passionate about coding, cybersecurity, and bot development.  
-🎮 Gamer at heart, always finding ways to enhance my experience.  
+<p align="center">
+
+- **Languages**:
+    
+    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+</p>
 
 ---
 
-## 📫 How to Reach Me  
-- **GitHub**: [@V3laDev](https://github.com/V3laDev)  
-- **Discord**: [@velaxitt]("https://discord.com/users")  
+<p align="center">
 
-Feel free to connect with me—I’m always up for a new challenge or collaboration! 🚀  
-
-- i only have this profile.
+- **Skills**:
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=V3laDev&show_icons=true&theme=radical&hide=stars" alt="V3laDev Github Stats">
+</p>
