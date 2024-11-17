@@ -35,13 +35,15 @@ I'm a **17-year-old** developer and creator from **Argentina** 🇦🇷.
 </p>
 
 ---
-<br><br>
-<p align="center>
+
+<p align="center">
 
 - **Spotify**:
-  <br><br>
-  
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=6yiowe4up5b9o4bculph7aaav&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/v3laDev)
+ <br><br>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=6yiowe4up5b9o4bculph7aaav&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/v3laDev)
   
 </p>
+
+---
 <br><br>
